@@ -17,15 +17,15 @@ log快捷键:loge;logi;logw
 
 ![gif](https://github.com/MtelApp/ASHotKeys/raw/master/nullHotKeys.gif "nullHotKeys")
 
-复制行：common+D
+复制行：command+D
 
-删除行：common+backspace
+删除行：command+backspace
 
 查看某方法被调用：选中某方法，然后Ctrl+Alt+H
 
 查找：
->文件内查找：common+F
+>文件内查找：command+F
 
->全文搜索：shift+common+F
+>全文搜索：shift+command+F
 
 >双击shift弹出的查找连窗口都给查找出来，而且不准确。有时候会找不到text。
