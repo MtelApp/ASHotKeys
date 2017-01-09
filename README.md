@@ -21,6 +21,12 @@ log快捷键:loge;logi;logw
 
 删除行：command+backspace
 
+剪切光标当前行：command+X
+
+拷贝光标所在的行：command+C
+
+代码格式：command+L
+
 查看某方法被调用：选中某方法，然后Ctrl+Alt+H
 
 查找：
