@@ -35,3 +35,7 @@ log快捷键:loge;logi;logw
 >全文搜索：shift+command+F
 
 >双击shift弹出的查找连窗口都给查找出来，而且不准确。有时候会找不到text。
+
+
+
+>123
